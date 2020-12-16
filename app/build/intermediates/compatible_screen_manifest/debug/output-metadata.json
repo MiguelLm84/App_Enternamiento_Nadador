@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.miguel_lm.app_entrenamiento_nadador",
+  "variantName": "debug",
+  "elements": []
+}

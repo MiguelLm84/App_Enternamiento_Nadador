@@ -1,0 +1,39 @@
+com/miguel_lm/app_entrenamiento_nadador/ui/ViewHolderEntrenamiento.java
+ com.miguel_lm.app_entrenamiento_nadador.ui.ViewHolderEntrenamiento
+ com.miguel_lm.app_entrenamiento_nadador.ui.ViewHolderEntrenamiento$1
+ com.miguel_lm.app_entrenamiento_nadador.ui.ViewHolderEntrenamiento$2
+ com.miguel_lm.app_entrenamiento_nadador.ui.ViewHolderEntrenamiento$2$1
+com/miguel_lm/app_entrenamiento_nadador/modelo/DAOEntrenamiento.java
+ com.miguel_lm.app_entrenamiento_nadador.modelo.DAOEntrenamiento
+com/miguel_lm/app_entrenamiento_nadador/ui/SeleccionarEntreno.java
+ com.miguel_lm.app_entrenamiento_nadador.ui.SeleccionarEntreno
+com/miguel_lm/app_entrenamiento_nadador/modelo/EntrenamientosDataBase.java
+ com.miguel_lm.app_entrenamiento_nadador.modelo.EntrenamientosDataBase
+com/miguel_lm/app_entrenamiento_nadador/modelo/RepositorioEntrenamientos.java
+ com.miguel_lm.app_entrenamiento_nadador.modelo.RepositorioEntrenamientos
+com/miguel_lm/app_entrenamiento_nadador/BuildConfig.java
+ com.miguel_lm.app_entrenamiento_nadador.BuildConfig
+com/miguel_lm/app_entrenamiento_nadador/modelo/DateConverter.java
+ com.miguel_lm.app_entrenamiento_nadador.modelo.DateConverter
+com/miguel_lm/app_entrenamiento_nadador/modelo/Estadisticas.java
+ com.miguel_lm.app_entrenamiento_nadador.modelo.Estadisticas
+com/miguel_lm/app_entrenamiento_nadador/ui/MainActivity.java
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$1
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$1$1
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$10
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$11
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$12
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$2
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$3
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$4
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$5
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$6
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$7
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$8
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$8$1
+ com.miguel_lm.app_entrenamiento_nadador.ui.MainActivity$9
+com/miguel_lm/app_entrenamiento_nadador/ui/AdapterEntrenamientos.java
+ com.miguel_lm.app_entrenamiento_nadador.ui.AdapterEntrenamientos
+com/miguel_lm/app_entrenamiento_nadador/modelo/Entrenamiento.java
+ com.miguel_lm.app_entrenamiento_nadador.modelo.Entrenamiento
